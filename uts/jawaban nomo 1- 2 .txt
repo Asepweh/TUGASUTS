@@ -1,0 +1,16 @@
+1. Kerangka kerja yang dibuat untuk mempermudah web developer dalam penulisan coding.
+
+2. Tema : Laboratorium
+   Asep Mulyana
+   
+
+ Permasalahan
+    a. belum adanya penerapan aplikasi pada laboraotirum sekolah
+    b. sulitnya mlakukan pengawasan terhadap kondisi aset yang ada dilaboratorium
+    
+
+ Solusi
+    a. Sistem manajemen inventaris untuk melacak persediaan dan kondisi aset yang tersediiaa
+    b. Penggunaan aplikasi untuk mengetahui kegiatan belajar yang ada dilaboratorium
+   
+Penerapan solusi-solusi ini dapat membantu meningkatkan efisiensi operasional laboratorium sekolah.
